@@ -2,7 +2,7 @@
 This task is developed based on a request from XIOT as a filteration task for an embedded intership opportunity
 
 # Downloading Source Code
-  $`git clone https://github.com/BeshoyAnwar/Embedded-Systems-Development-Task-from-XIOT.git`
+  $`<git clone https://github.com/BeshoyAnwar/Embedded-Systems-Development-Task-from-XIOT.git>`
 # Installing Tools
 ## Linux:Ubuntu
 
