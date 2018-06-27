@@ -2,17 +2,17 @@
 This task is developed based on a request from XIOT as a filteration task for an embedded intership opportunity
 
 # Downloading Source Code
-  $'git clone https://github.com/BeshoyAnwar/Embedded-Systems-Development-Task-from-XIOT.git'
+  $`git clone https://github.com/BeshoyAnwar/Embedded-Systems-Development-Task-from-XIOT.git`
 # Installing Tools
-*Linux, Ubuntu
+## Linux:Ubuntu
 
   $ 'sudo apt-get install gcc-avr avr-libc avrdude'
   
-*Mac OSX
+## Mac OSX
 
   Download [AVR MacPack](https://www.obdev.at/products/crosspack/download.html)
   
-*Windows
+## Windows
 
   Download [WinAVR](http://winavr.sourceforge.net/download.html)
  
