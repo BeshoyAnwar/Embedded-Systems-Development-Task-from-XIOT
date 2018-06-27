@@ -5,12 +5,15 @@ This task is developed based on a request from XIOT as a filteration task for an
   $'git clone https://github.com/BeshoyAnwar/Embedded-Systems-Development-Task-from-XIOT.git'
 # Installing Tools
 *Linux, Ubuntu
+
   $ 'sudo apt-get install gcc-avr avr-libc avrdude'
   
 *Mac OSX
+
   Download [AVR MacPack](https://www.obdev.at/products/crosspack/download.html)
   
 *Windows
+
   Download [WinAVR](http://winavr.sourceforge.net/download.html)
  
 # Compiling
