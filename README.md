@@ -1,14 +1,19 @@
 # Embedded-Systems-Development-Task-from-XIOT
-This task is developed based on a request from XIOT as a filteration task for an embedded intership opportunity
+This task is developed based on a request from XIOT as a filteration task for an embedded intership opportunity.
 # Description
   1-switch as interrupt once it pressed it should lighting the led connected to output pin.
-  2-if the switch pressed must send “pressed” to the serial monitor only one time also send the LED states ”ON” or “OFF”
-  3-the whole function could be used many times in the program without interfering each-other
-  4-Your program can send continuous serial data comes from temperature sensor with 3 second rate at the same time
+  
+  2-if the switch pressed must send “pressed” to the serial monitor only one time also send the LED states ”ON” or “OFF”.
+  
+  3-the whole function could be used many times in the program without interfering each-other.
+  
+  4-Your program can send continuous serial data comes from temperature sensor with 3 second rate at the same time.
   ![Project Design](https://github.com/BeshoyAnwar/Embedded-Systems-Development-Task-from-XIOT/blob/master/projectDesign.png)
 # Assumptions
   1-using atmega16 as target as we not need high processing
-  2-using LM35 as Temp. sensor
+  
+  2-using LM35 as Temperature sensor
+  
 Note: NO ISSUES DETECTED
 # Downloading Source Code
   $`git clone https://github.com/BeshoyAnwar/Embedded-Systems-Development-Task-from-XIOT.git`
