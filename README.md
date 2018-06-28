@@ -4,18 +4,18 @@ This task is developed based on a request from XIOT as a filteration task for an
 # Downloading Source Code
   $`git clone https://github.com/BeshoyAnwar/Embedded-Systems-Development-Task-from-XIOT.git`
 # Installing Tools
-  ## Linux:Ubuntu
-  
-    $`sudo apt-get install gcc-avr avr-libc avrdude`
+## Linux:Ubuntu
 
-  ## Mac OSX
+  $`sudo apt-get install gcc-avr avr-libc avrdude`
 
-    Download [AVR MacPack](https://www.obdev.at/products/crosspack/download.html)
+## Mac OSX
 
-  ## Windows
+  Download [AVR MacPack](https://www.obdev.at/products/crosspack/download.html)
 
-    Download [WinAVR](http://winavr.sourceforge.net/download.html)
- 
+## Windows
+
+Download [WinAVR](http://winavr.sourceforge.net/download.html)
+
 # Compiling
   $`avr-gcc -c -mmcu=atmega16 ADC.c -o ADC.o`
   
