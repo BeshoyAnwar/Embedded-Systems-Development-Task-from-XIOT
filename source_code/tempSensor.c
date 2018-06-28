@@ -24,5 +24,5 @@ void send_temp_to_serial_monitor(void)
 	temp = (temp*150*5)/(1023*1.5); /* calculate the temp from the ADC value*/
 	itoa(temp,buffer,10);	  /* convert the temp reading from uint32 type to string type */
 	UART_sendString(buffer); /* display the temp on Serial Monitor */
-	UART_sendString("C ");
+	UART_sendString("C\n\r");
 }
