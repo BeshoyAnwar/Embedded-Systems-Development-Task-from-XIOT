@@ -10,7 +10,7 @@ This task is developed based on a request from XIOT as a filteration task for an
   4-Your program can send continuous serial data comes from temperature sensor with 3 second rate at the same time.
   ![Project Design](https://github.com/BeshoyAnwar/Embedded-Systems-Development-Task-from-XIOT/blob/master/projectDesign.png)
 # Assumptions
-  1-using atmega16 as target as we not need high processing
+  1-using atmega16 as target as we don't need high processing
   
   2-using LM35 as Temperature sensor
   
