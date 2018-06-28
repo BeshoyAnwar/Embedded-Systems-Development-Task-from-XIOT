@@ -41,12 +41,12 @@ void send_LED_state_to_serial_monitor(void)
 
 	if(BIT_IS_CLEAR(PORTC,0)){
 
-		UART_sendString("LED_ON ");
+		UART_sendString("LED_ON\n\r");
 
 	}
 	else{
 
-		UART_sendString("LED_OFF ");
+		UART_sendString("LED_OFF\n\r");
 	}
 }
 
